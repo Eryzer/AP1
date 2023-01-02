@@ -1,0 +1,169 @@
+.container {
+    position: relative;
+}
+
+h3 {
+    size: 60%;
+    right:40px;
+    top: 55px;
+    position: absolute; 
+    word-spacing: 10px;
+    background-color: rgb(228, 243, 243);
+    border-radius: 10px;
+    height: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    top: 20px;
+
+}
+
+
+a{
+    color: black;
+}
+
+.imagee{
+    height: 0vh;
+    width: 70vw;
+    position: absolute;
+}
+
+h1{
+  
+    right: 500px;
+    left: 570px;
+    position: absolute;
+    background-color:rgb(228, 243, 243);
+    border-radius: 10px;
+    width: 400px;
+}
+
+h2 {
+
+    position: absolute;
+    align-items: center;
+    background-color:rgb(228, 243, 243);
+    border-radius: 10px;
+    top: 282px;
+    font-size: 30px;
+    left: 10px;
+
+}   
+footer{
+    font-family: 'Times New Roman', Times, serif;
+    bottom: 10px;
+    position: absolute;
+    font-weight: lighter;
+    font-style: italic;
+    background-color:rgb(228, 243, 243);
+    font-size: small;
+    width: 400px;;
+}
+FORM {
+    position: absolute;
+    align-items: center;
+    background-color:rgb(228, 243, 243);
+    border-radius: 90px;
+    justify-content: center;
+    top: 270px;
+    color:rgb(228, 243, 243) ;
+}
+FORM:hover{
+    background-color: rgb(228, 243, 243);
+}
+
+h4{
+    position: absolute;
+    font-weight: bold;
+    font-size: 150%;
+    top: 280px;
+    left: 295px;
+    background-color:rgb(228, 243, 243) ;
+    border-radius: 20px;
+    word-spacing:330px ;
+    width: 930px;
+    padding-left: 5px;
+}
+
+.vtrine1 img{
+  width: 210px;
+  height: 215px;
+  top: 370px ;
+  position: absolute;
+  border-radius: 50%;
+  left: 235px;
+}
+
+.toan {
+    width: 270px;
+    height: 215px;
+    top: 575px ;
+    position: absolute;
+    left: 235px;
+    font-weight: bolder;
+}
+
+.Vtrine2 img {
+    width: 210px;
+    height: 215px;
+    top: 370px ;
+    position: absolute;
+    border-radius: 50%;
+    left: 655px;
+}
+.roberto {
+    width: 270px;
+    height: 215px;
+    top: 575px ;
+    position: absolute;
+    left: 665px;
+    font-weight: bolder;
+
+}
+
+.vtrine3 img{
+    width: 210px;
+    height: 215px;
+    top: 370px ;
+    position: absolute;
+    border-radius: 50%;
+    left: 1090px;
+}
+
+.PAUl {
+    width: 270px;
+    height: 215px;
+    top: 575px ;
+    position: absolute;
+    left: 1090px;
+    font-weight: bolder;
+}
+
+ul {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.calandrier img {
+    left: 530px;
+    position: absolute;
+    height: 250px;
+    top: 70px;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    top: 0px;
+    position: absolute;
+    margin-left: 10px;
+    font-weight: bold;
+    font-size: 30px;
+    margin: none;
+}
+
+a:hover{
+    background-color: rgb(145, 195, 228);
+    border-radius: 10px;
+}
+
+body{
+    margin: 0;
+}

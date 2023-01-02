@@ -1,0 +1,121 @@
+.container body {
+    position: relative;
+}
+
+
+.header{
+    position: fixed;
+}
+
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    top: 0px;
+    position: relative;
+    margin-left: 10px;
+    font-weight: bold;
+    font-size: 70px;
+}
+
+.imagee{
+    height: 0vh;
+    width: 100vw;
+}
+
+.imaged img{
+    height: 450px;
+    width: 650px;
+    position: absolute;
+    right: 10px;
+    bottom: 105px;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;  
+    font-weight: lighter;
+    justify-content: justify;
+    text-align: justify;
+    width: 600px;
+    margin-left: 60px;
+    
+}
+
+h2{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 60px;
+}
+
+h3 {
+
+    right:40px;
+    top: 55px;
+    position: absolute; 
+    word-spacing: 10px;
+    background-color:rgb(228, 243, 243);
+    border-radius: 6px;
+    height: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+
+}
+
+
+a{
+    color: black;
+   
+}
+
+a:hover{
+    background-color: rgb(145, 195, 228);
+    border-radius: 10px;
+}
+
+footer{
+    font-family: 'Times New Roman', Times, serif;
+    bottom: 10px;
+    position: absolute;
+    font-weight: lighter;
+    font-style: italic;
+    background-color:rgb(228, 243, 243);
+    font-size: small;
+    width: 400px;;
+}
+
+body{
+    margin: 0;
+}
+
+h1::before{
+    background-color: black;
+  
+}
+
+.logo img {
+    right: 05px;
+    position:absolute;
+    justify-content: space-between =100px ;
+    width: 40px;
+    height: 30px;
+}
+
+.logo1 img {
+    right: 39px;
+    position:absolute;
+    justify-content: space-between =100px ;
+    width: 30px;
+    height: 30px;
+}
+
+.logo2 img {
+    right: 65px;
+    position:absolute;
+    justify-content: space-between =100px ;
+    width: 40px;
+    height: 40px;
+    top: 1px;
+}
+
+.logo{
+    margin-top: 5px;
+}
